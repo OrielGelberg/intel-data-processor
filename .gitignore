@@ -6,3 +6,11 @@ temp_files/
 build/
 dist/
 *.egg-info/
+# Security files
+*.key
+*.pem
+classified/
+secret_data.txt
+# Temporary files
+*.tmp
+*.log
